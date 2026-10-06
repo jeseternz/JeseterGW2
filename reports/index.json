@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261006-210159-1hf1",
+      "title": "J A Z Z Z Z Z, Tomoe J Gozen",
+      "commanders": [
+        "J A Z Z Z Z Z",
+        "Tomoe J Gozen"
+      ],
+      "dateStart": "2026-10-06T08:01:59.000Z",
+      "dateEnd": "2026-10-06T09:05:38.000Z",
+      "dateLabel": "10/6/2026, 9:01:59 PM - 10/6/2026, 10:05:38 PM",
+      "url": "https://jeseternz.github.io/JeseterGW2/?report=20261006-210159-1hf1",
+      "summary": {
+        "borderlandsPct": 0.05555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260920-125414-2rcs",
       "title": "Ebs Nine",
       "commanders": [
